@@ -39,4 +39,4 @@ without memorizing it. [Ref]_
 Feminine
 --------
 
-.. [Ref]_ https://en.wikibooks.org/wiki/German/Grammar/Introduction#Gender
+.. [Ref] https://en.wikibooks.org/wiki/German/Grammar/Introduction#Gender
