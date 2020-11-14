@@ -17,7 +17,7 @@ Online German-English Dictionaries
 Online German Grammar Guides
 ----------------------------
 * `Collins Easy Learning German Grammar`_: e.g. articles, verbs, word order
-* `German Grammar from Wikibooks`_: `Print version`_; e.g. adjectives, adverbs, pronouns, verbs
+* `German Grammar from Wikibooks`_: e.g. adjectives, adverbs, pronouns, verbs; check `Print version`_
 
 
 .. URLs
