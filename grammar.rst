@@ -34,9 +34,9 @@ Genders
 =======
 German has three genders, masculine, feminine and neuter, but they are
 **grammatical genders**, meaning it's usually difficult to tell the gender
-without memorizing it. [Ref-Wikibook-genders]_
+without memorizing it. [Ref]_
 
 Feminine
 --------
 
-.. [Ref-Wikibook-genders]_ https://en.wikibooks.org/wiki/German/Grammar/Introduction#Gender
+.. [Ref]_ https://en.wikibooks.org/wiki/German/Grammar/Introduction#Gender
