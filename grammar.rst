@@ -28,3 +28,15 @@ For these endings, use the pattern **MRMN**: meine\ **M** (masculine), mein\ **R
 
 .. URLs
 .. _Duolingo: https://www.duolingo.com
+
+
+Genders
+=======
+German has three genders, masculine, feminine and neuter, but they are
+**grammatical genders**, meaning it's usually difficult to tell the gender
+without memorizing it. [Ref-Wikibook-genders]_
+
+Feminine
+--------
+
+.. [Ref-Wikibook-genders]_ https://en.wikibooks.org/wiki/German/Grammar/Introduction#Gender
