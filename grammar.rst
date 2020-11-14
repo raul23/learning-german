@@ -22,9 +22,7 @@ Dative case
 The **dative case** happens when something is indirectly affected by an action,
 after special verbs like **helfen** or **danken**, or after words like **mit**, **von**, or **seit**.
 
-For these endings, use the pattern **MRMN**: meine\ **M** (masculine), mein\ **R** (feminine), meine\ **M** (neuter), meine\ **N** (plural).
-
-**Reference:** `Duolingo`_ German course
+For these endings, use the pattern **MRMN**: meine\ **M** (masculine), mein\ **R** (feminine), meine\ **M** (neuter), meine\ **N** (plural). [Ref]_
 
 .. URLs
 .. _Duolingo: https://www.duolingo.com
@@ -39,4 +37,5 @@ without memorizing it. [Ref]_
 Feminine
 --------
 
+.. [Ref] https://www.duolingo.com/
 .. [Ref] https://en.wikibooks.org/wiki/German/Grammar/Introduction#Gender
