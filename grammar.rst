@@ -30,5 +30,8 @@ without memorizing it. [Wikibooks-Genders]_
 Feminine
 --------
 
+|
+|
+|
 .. [Duolingo] https://www.duolingo.com/
 .. [Wikibooks-Genders] https://en.wikibooks.org/wiki/German/Grammar/Introduction#Gender
