@@ -64,7 +64,7 @@ Almost all nouns that end with **‑ung** are feminine. Plus, most nouns ending 
 Masculine
 ---------
 There’s a group of masculine nouns that end with **‑e**, such as **der Junge** or 
-**der Name**. These nouns add an **‑n** to the end when in the accusative. [D]_
+**der Name**. These nouns add an **‑n** to the end when in the `accusative`_. [D]_
 
 Negatives
 =========
@@ -89,3 +89,7 @@ References
 ==========
 .. [D] https://www.duolingo.com/
 .. [WG] https://en.wikibooks.org/wiki/German/Grammar/Introduction#Gender
+
+
+.. URLs
+.. _accusative: #accusative-case
