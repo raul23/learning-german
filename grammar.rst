@@ -70,6 +70,8 @@ They are referred as **weak nouns** or **masculine n-nouns** and we add **-en** 
 **-n** (**-n** if the noun already ends in **-e**) at the end of these nouns in all 
 cases, except the nominative singular. [V]_
 
+Check `Collins German Grammar`_ for a detailed list of these weak nouns.
+
 **Examples:**
 
 | The name is good.
@@ -108,3 +110,4 @@ References
 
 .. URLs
 .. _accusative: #accusative-case
+.. _Collins German Grammar : https://grammar.collinsdictionary.com/german-easy-learning/weak-nouns
