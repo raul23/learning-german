@@ -63,6 +63,8 @@ Almost all nouns that end with **‑ung** are feminine. Plus, most nouns ending 
 
 |
 |
-|
+
+References
+==========
 .. [D] https://www.duolingo.com/
 .. [WG] https://en.wikibooks.org/wiki/German/Grammar/Introduction#Gender
