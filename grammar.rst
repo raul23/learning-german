@@ -17,9 +17,11 @@ For these endings, use the pattern **NEXE** (X means no ending): meine\ **N**
 Dative case
 ===========
 The **dative case** happens when something is indirectly affected by an action,
-after special verbs like **helfen** or **danken**, or after words like **mit**, **von**, or **seit**.
+after special verbs like **helfen** or **danken**, or after words like **mit**, 
+**von**, or **seit**.
 
-For these endings, use the pattern **MRMN**: meine\ **M** (masculine), mein\ **R** (feminine), meine\ **M** (neuter), meine\ **N** (plural). [Duolingo]_
+For these endings, use the pattern **MRMN**: meine\ **M** (masculine), 
+mein\ **R** (feminine), meine\ **M** (neuter), meine\ **N** (plural). [Duolingo]_
 
 Genders
 =======
@@ -29,6 +31,8 @@ without memorizing it. [Wikibooks-Genders]_
 
 Feminine
 --------
+Almost all nouns that end with **‑ung** are feminine. Plus, most nouns ending with 
+**‑e** are feminine (**der Junge** is an exception!). [Duolingo]_
 
 |
 |
