@@ -34,15 +34,15 @@ Feminine
 Almost all nouns that end with **‑ung** are feminine. Plus, most nouns ending with 
 **‑e** are feminine (**der Junge** is an exception!). [Duolingo]_
 
-+-----+----------------+
-|-ung | - die Kleidung |
-|     | - die Zeitung  |
-|     | - die Wohnung  |
-+-----+----------------+
-| -e  | - die Decke    |
-|     | - die Küche    |
-|     | - die Steckdos |
-+-----+----------------+
++---------+----------------+
+|**-ung** | - die Kleidung |
+|         | - die Zeitung  |
+|         | - die Wohnung  |
++---------+----------------+
+| **-e**  | - die Decke    |
+|         | - die Küche    |
+|         | - die Steckdos |
++---------+----------------+
 
 |
 |
