@@ -61,9 +61,6 @@ Almost all nouns that end with **‑ung** are feminine. Plus, most nouns ending 
 |         | - die Steckdos |
 +---------+----------------+
 
-|
-|
-
 References
 ==========
 .. [D] https://www.duolingo.com/
