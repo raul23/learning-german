@@ -71,11 +71,11 @@ Negatives
    
 **Examples:**
 
-No cat likes water.  
+No cat likes water. \
 **Keine** Katze mag Wasser.
 
-I never swim.  
-Ich schwimme **nie**.  
+I never swim. \
+Ich schwimme **nie**. \
 **NOTE:** Verb always in second position!
 
 References
