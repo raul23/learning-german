@@ -68,13 +68,13 @@ There’s a group of masculine nouns that end with **‑e**, such as **der Junge
 
 **Examples:**
 
-| Der Name ist gut.
 | The name is good.
+| Der Name ist gut.
 
 |
 
-| Kennst du sein\ **en** Nam\ **en**?
 | Do you know his name?
+| Kennst du sein\ **en** Nam\ **en**?
 
 Negatives
 =========
