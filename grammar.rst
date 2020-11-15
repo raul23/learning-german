@@ -21,9 +21,6 @@ after special verbs like **helfen** or **danken**, or after words like **mit**, 
 
 For these endings, use the pattern **MRMN**: meine\ **M** (masculine), mein\ **R** (feminine), meine\ **M** (neuter), meine\ **N** (plural). [Duolingo]_
 
-.. URLs
-.. _Duolingo: https://www.duolingo.com
-
 Genders
 =======
 German has three genders, masculine, feminine and neuter, but they are
