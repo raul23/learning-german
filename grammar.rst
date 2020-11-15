@@ -66,6 +66,10 @@ Masculine
 There’s a group of masculine nouns that end with **‑e**, such as **der Junge** or 
 **der Name**. These nouns add an **‑n** to the end when in the `accusative`_. [D]_
 
+They are referred as **weak nouns** or **masculine n-nouns** and we add **-en** or 
+**-n** (**-n** if the noun already ends in **-e**) at the end of these nouns in all 
+cases, except the nominative singular. [V]_
+
 **Examples:**
 
 | The name is good.
@@ -98,6 +102,7 @@ Negatives
 References
 ==========
 .. [D] https://www.duolingo.com/
+.. [V] https://www.vistawide.com/german/grammar/german_nouns03.htm#weak
 .. [WG] https://en.wikibooks.org/wiki/German/Grammar/Introduction#Gender
 
 
