@@ -69,6 +69,15 @@ Negatives
    **IMPORTANT:** Don’t use *nicht* with nouns. If you want to say things like 
    *I’m not a girl*, you’ll use **kein** instead!
    
+**Examples:**
+
+No cat likes water.
+**Keine* Katze mag Wasser.
+
+I never swim.
+Ich schwimme **nie**.
+**NOTE:** Verb always in second position!
+
 References
 ==========
 .. [D] https://www.duolingo.com/
