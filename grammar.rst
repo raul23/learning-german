@@ -67,6 +67,7 @@ There’s a group of masculine nouns that end with **‑e**, such as **der Junge
 **der Name**. These nouns add an **‑n** to the end when in the `accusative`_. [D]_
 
 **Examples:**
+
 | Der Name ist gut.
 | The name is good.
 
