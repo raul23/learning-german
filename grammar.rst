@@ -29,6 +29,23 @@ German has three genders, masculine, feminine and neuter, but they are
 **grammatical genders**, meaning it's usually difficult to tell the gender
 without memorizing it. [Wikibooks-Genders]_
 
+When to use **die**, **der**, **das**: remember to learn new nouns along with the 
+appropriate word for **the**!
+
++--------------+----------------+
+|**masculine** | - der Baum     |
+|              | - der Berg     |
+|              | - der Wind     |
++--------------+----------------+
+| **feminine** | - die Natur    |
+|              | - die Luft     |
+|              | - die Blume.   |
++--------------+----------------+
+|**neuter**    | - das Feuer    |
+|              | - das Meer     |
++--------------+----------------+
+
+
 Feminine
 --------
 Almost all nouns that end with **‑ung** are feminine. Plus, most nouns ending with 
