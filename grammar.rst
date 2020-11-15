@@ -66,8 +66,9 @@ Negatives
 
 `:warning:`
 
-   **IMPORTANT:** Don’t use *nicht* with nouns.
-
+   **IMPORTANT:** Don’t use *nicht* with nouns. If you want to say things like 
+   *I’m not a girl*, you’ll use **kein** instead!
+   
 References
 ==========
 .. [D] https://www.duolingo.com/
