@@ -74,6 +74,8 @@ Negatives
 | No cat likes water.
 | **Keine** Katze mag Wasser.
 
+|
+
 | I never swim. 
 | Ich schwimme **nie**. 
 | **NOTE:** Verb always in second position!
