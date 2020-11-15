@@ -66,7 +66,7 @@ Negatives
 
 `:warning:`
 
-   **IMPORTANT:** Don’t use nicht with nouns.
+   **IMPORTANT:** Don’t use *nicht* with nouns.
 
 References
 ==========
