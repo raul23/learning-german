@@ -61,6 +61,11 @@ Almost all nouns that end with **‑ung** are feminine. Plus, most nouns ending 
 |         | - die Steckdos |
 +---------+----------------+
 
+Masculine
+---------
+There’s a group of masculine nouns that end with **‑e**, such as **der Junge** or 
+**der Name**. These nouns add an **‑n** to the end when in the accusative. [D]_
+
 Negatives
 =========
 
