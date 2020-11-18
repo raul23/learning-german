@@ -4,10 +4,6 @@ README
 I am compiling a list of the resources I found useful while I am learning German. Also I am saving in ``grammar.rst`` and ``vocabulary.rst`` the
 most important grammar rules and words I must remember.
 
-.. contents:: **Table of contents**
-   :depth: 3
-   :local:
-
 Resources
 =========
 Online German-English Dictionaries
