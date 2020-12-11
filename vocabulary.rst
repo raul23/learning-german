@@ -86,4 +86,4 @@ Greetings
 
 Misc
 ====
-so wie: as, like
+| **so wie**: as, like
