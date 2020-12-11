@@ -18,6 +18,8 @@ Words
 
 **Arbeitnehmer, in** (-, **-nen**): *der, die* worker
 
+**Mitarbeiter, in** (-, **-nen**): *der, die* employee, co-worker, collaborator
+
 **zu**: 
   - *adv*: too
   - *prep*: to
