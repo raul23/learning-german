@@ -24,6 +24,6 @@ Online German Grammar Guides
 .. _Collins Easy Learning German Grammar: https://grammar.collinsdictionary.com/german-easy-learning/
 .. _English-language Wiktionary: https://en.wiktionary.org/wiki/Wiktionary:Main_Page
 .. _German Grammar from Wikibooks: https://en.wikibooks.org/wiki/German/Grammar
-.. _grammar.rst: ../grammar.rst
+.. _grammar.rst: .grammar.rst
 .. _Print version: https://en.wikibooks.org/wiki/German/Print_version
 .. _vocabulary.rst: https://github.com/raul23/learning-german/blob/main/vocabulary.rst
