@@ -62,7 +62,7 @@ Words
 
 **immer**: always
 
-**jetzt*: now
+**jetzt**: now
 
 **man**: one, you, people
   * e.g. Butter macht **man** aus Milch : **One** makes butter out of milk
