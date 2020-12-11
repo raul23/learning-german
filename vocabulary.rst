@@ -3,11 +3,16 @@ Vocabulary
 ==========
 Words
 =====
-| **Arbeit** (**-en**): *die* work, labor, job
-| **arbeiten** (*iv*): to work
-| **Arbeiter, in** (-, **-nen**): *der, die* laborer, worker
-| **Arbeitgeber, in** (-, **-nen**): *der, die* employer
-| **Arbeitnehmer, in** (-, **-nen**): *der, die* worker
+**Arbeit** (**-en**): *die* work, labor, job
+
+**arbeiten** (*iv*): to work
+
+**Arbeiter, in** (-, **-nen**): *der, die* laborer, worker
+
+**Arbeitgeber, in** (-, **-nen**): *der, die* employer
+
+**Arbeitnehmer, in** (-, **-nen**): *der, die* worker
+
 **zu**: 
   - *adv*: too
   - *prep*: to
