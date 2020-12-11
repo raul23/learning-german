@@ -50,7 +50,7 @@ Words
 
 **uns**: us
 
-**Vergangenheit**: past
+**Vergangenheit**: *die* past
 
 **vielleicht**: perhaps, might, maybe, possibly
 
