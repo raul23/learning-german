@@ -1,7 +1,7 @@
 ======
 README
 ======
-I am compiling a list of the resources I found useful while I am learning German. Also I am saving in ``grammar.rst`` and ``vocabulary.rst`` the
+I am compiling a list of the resources I found useful while learning German. Also I am saving in ``grammar.rst`` and ``vocabulary.rst`` the
 most important grammar rules and words I must remember.
 
 Resources
