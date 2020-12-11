@@ -8,6 +8,8 @@ Vocabulary
    
 Words
 =====
+**als**: than
+
 **Arbeit** (**-en**) *die* work, labor, job
 
 **arbeiten** (*iv*) to work
@@ -26,11 +28,15 @@ Words
 
 **aus**: out of, off
 
+**da**: because, there, over there
+
 **danach**: afterwards, then, after that
 
 **doch**: but
 
 **durch**: by
+
+**euch**: you
 
 **ihn**: him
 
@@ -44,6 +50,8 @@ Words
 
 **obwohl**: even though
 
+**plötzlich**: suddenly 
+
 **spazieren**: go for a walk, walk
 
 **über**: about, across
@@ -54,9 +62,13 @@ Words
 
 **vielleicht**: perhaps, might, maybe, possibly
 
+**vorbei**: over
+
 **wann**: when
 
 **warum**: because
+
+**Weihnachten** *das* Christmas
 
 **weil**: because
 
@@ -75,6 +87,8 @@ Words
 **zu**: 
   - *adv*: too
   - *prep*: to
+  
+**zum**: for my
 
 Expressions
 ===========
@@ -86,4 +100,5 @@ Greetings
 
 Misc
 ====
+| **Alles Gute zum Geburtstag**: happy birthday
 | **so wie**: as, like
