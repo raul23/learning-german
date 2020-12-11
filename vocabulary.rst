@@ -145,12 +145,12 @@ Greetings
 | **Wie geht es dir?**: How are you?
 
 Misc
-====
+----
 | **Alles Gute zum Geburtstag**: Happy birthday
 | **so wie**: as, like
 | **Viertel vor**: a quarter to
 
 Time
-====
+----
 | **Hast du die Uhrzeit?**: Do you have the time?
 | **Wie viel Uhr ist es?**: What time is it?
