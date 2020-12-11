@@ -1,7 +1,7 @@
 ======
 README
 ======
-I am compiling a list of the resources I found useful while learning German. Also I am saving in ``grammar.rst`` and ``vocabulary.rst`` the
+I am compiling a list of the resources I found useful while learning German. Also I am saving in `grammar.rst`_ and `vocabulary.rst`_ the
 most important grammar rules and words I must remember.
 
 Resources
@@ -24,4 +24,6 @@ Online German Grammar Guides
 .. _Collins Easy Learning German Grammar: https://grammar.collinsdictionary.com/german-easy-learning/
 .. _English-language Wiktionary: https://en.wiktionary.org/wiki/Wiktionary:Main_Page
 .. _German Grammar from Wikibooks: https://en.wikibooks.org/wiki/German/Grammar
+.. _grammar.rst: https://github.com/raul23/learning-german/blob/main/grammar.rst
 .. _Print version: https://en.wikibooks.org/wiki/German/Print_version
+.. _vocabulary.rst: https://github.com/raul23/learning-german/blob/main/vocabulary.rst
