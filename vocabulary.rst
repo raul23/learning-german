@@ -43,7 +43,7 @@ Words
 **immer**: always
 
 **man**: one, you, people
-  * Example 1: Butter macht **man** aus Milch : **One** makes butter out of milk
+  * e.g. Butter macht **man** aus Milch : **One** makes butter out of milk
 
 **Mitarbeiter, in** (-, **-nen**) *der, die* employee, co-worker, collaborator
 
