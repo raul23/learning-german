@@ -4,7 +4,6 @@ Vocabulary
 Words
 =====
 **zu**: 
-
   - *adv*: too
   - *prep*: to
 
