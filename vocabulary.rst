@@ -1,6 +1,11 @@
 ==========
 Vocabulary
 ==========
+
+.. contents:: **Table of contents**
+   :depth: 3
+   :local:
+   
 Words
 =====
 **Arbeit** (**-en**): *die* work, labor, job
