@@ -1,8 +1,17 @@
 ==========
 Vocabulary
 ==========
-Greetings
-=========
-**Es tut mir leid**: I’m sorry
+Words
+=====
+**zu**: 
 
-**Wie geht’s?**: How are you?
+  - *adv*: too
+  - *prep*: to
+
+Expressions
+===========
+Greetings
+---------
+| **Es geht**: I’m all right
+| **Es tut mir leid**: I’m sorry
+| **Wie geht’s?**: How are you?
