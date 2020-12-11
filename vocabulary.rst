@@ -46,7 +46,7 @@ Words
 
 **spazieren**: go for a walk, walk
 
-**über: about, across
+**über**: about, across
 
 **uns**: us
 
