@@ -42,6 +42,9 @@ Words
 
 **immer**: always
 
+**man**: one, you, people
+  * Example 1: Butter macht **man** aus Milch : **One** makes butter out of milk
+
 **Mitarbeiter, in** (-, **-nen**) *der, die* employee, co-worker, collaborator
 
 **nach**: to
@@ -100,5 +103,5 @@ Greetings
 
 Misc
 ====
-| **Alles Gute zum Geburtstag**: happy birthday
+| **Alles Gute zum Geburtstag**: Happy birthday
 | **so wie**: as, like
