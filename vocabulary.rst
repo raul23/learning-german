@@ -8,15 +8,15 @@ Vocabulary
    
 Words
 =====
-**Arbeit** (**-en**): *die* work, labor, job
+**Arbeit** (**-en**) *die* work, labor, job
 
-**arbeiten** (*iv*): to work
+**arbeiten** (*iv*) to work
 
-**Arbeiter, in** (-, **-nen**): *der, die* laborer, worker
+**Arbeiter, in** (-, **-nen**) *der, die* laborer, worker
 
-**Arbeitgeber, in** (-, **-nen**): *der, die* employer
+**Arbeitgeber, in** (-, **-nen**) *der, die* employer
 
-**Arbeitnehmer, in** (-, **-nen**): *der, die* worker
+**Arbeitnehmer, in** (-, **-nen**) *der, die* worker
 
 **auch**: too
 
@@ -36,7 +36,7 @@ Words
 
 **immer**: always
 
-**Mitarbeiter, in** (-, **-nen**): *der, die* employee, co-worker, collaborator
+**Mitarbeiter, in** (-, **-nen**) *der, die* employee, co-worker, collaborator
 
 **nach**: to
 
@@ -50,7 +50,7 @@ Words
 
 **uns**: us
 
-**Vergangenheit**: *die* past
+**Vergangenheit** *die* past
 
 **vielleicht**: perhaps, might, maybe, possibly
 
