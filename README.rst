@@ -26,4 +26,4 @@ Online German Grammar Guides
 .. _German Grammar from Wikibooks: https://en.wikibooks.org/wiki/German/Grammar
 .. _grammar.rst: ./grammar.rst
 .. _Print version: https://en.wikibooks.org/wiki/German/Print_version
-.. _vocabulary.rst: https://github.com/raul23/learning-german/blob/main/vocabulary.rst
+.. _vocabulary.rst: ./vocabulary.rst
