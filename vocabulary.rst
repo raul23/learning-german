@@ -137,6 +137,12 @@ Words
 
 Expressions
 ===========
+Directions
+----------
+| **Es ist alles gerade**: It is all straight
+| **Es ist links / rechts**: It is on the left/right
+| **Es ist vorne / hinten**: It is in front / the back
+
 Greetings
 ---------
 | **Es geht**: I’m all right
