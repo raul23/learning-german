@@ -44,6 +44,12 @@ Numbers (Zahlen)
 | ten        |   | twenty       |
 +------------+---+--------------+
 
+|
+
+`:warning:` 
+  
+  **dreißig** : thirty
+
 | **dreißig** : thirty
 | **vierzig** : forty
 | **fünfzig** : fifty
