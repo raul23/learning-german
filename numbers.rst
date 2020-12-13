@@ -3,17 +3,17 @@ Numbers (Zahlen)
 ================
 
 +------------+----------------+
-| **eins**   | | **elf**      |
-|            | |              |
-| one        | | eleven       |
+| **eins**   | _ | **elf**      |
+|            | _ |              |
+| one        | _ | eleven       |
 +------------+----------------+
-| **zwei**   | | **zwölf**    |
-|            | |              |
-| two        | | twelve       |
+| **zwei**   | _ | **zwölf**    |
+|            | _ |              |
+| two        | _ | twelve       |
 +------------+----------------+
-| **drei**   | | **dreizehn** |
-|            | |              |
-| three      | | thirteen     |
+| **drei**   | _ | **dreizehn** |
+|            | _ |              |
+| three      | _ | thirteen     |
 +------------+----------------+
 | **vier**   | | **vierzehn** |
 |            | |              |
