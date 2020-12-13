@@ -143,6 +143,12 @@ Directions
 | **Es ist links / rechts**: It is on the left/right
 | **Es ist vorne / hinten**: It is in front / the back
 
+Feelings
+--------
+| **Ich bin glücklich**: I am happy
+| **Ich bin traurig**: I am sad
+| **Ich fühle mich krank / Ich bin krank*: I am sick / I am feeling sick
+
 Greetings
 ---------
 | **Es geht**: I’m all right
