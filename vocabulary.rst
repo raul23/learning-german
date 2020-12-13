@@ -183,5 +183,6 @@ Time (Zeit)
 Weather (Wetter)
 ----------------
 | **Es ist bewölkt**: It is cloudy
+| **Es ist sonnig**: It is sunny
 | **Es regnet**: It is raining
 | **Es schneit**: It is snowing
