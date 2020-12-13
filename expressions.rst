@@ -54,8 +54,9 @@ Languages (Sprechen)
 | **Könntest du langsam sprechen?**: Could you speak slowly?
 | **Mein Deutsch ist sehr einfach**: My German is very basic (simple)
 | **Ich spreche ein bisschen Deutsch**: I speak a little of German
-| **Ich spreche ein wenig Deutsch**: I speak a little bit of German
-  NOTE: [Also etwas (some, somewhat, slightly)] 
+| **Ich spreche ein wenig Deutsch**: I speak a little bit of German:
+
+   NOTE: [Also etwas (some, somewhat, slightly)] 
 
 Time (Zeit)
 ===========
