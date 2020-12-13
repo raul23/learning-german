@@ -3,43 +3,43 @@ Numbers (Zahlen)
 ================
 
 +------------+---+--------------+
-| **eins**   | _ | **elf**      |
+| **eins**   | . | **elf**      |
 |            |   |              |
 | one        |   | eleven       |
 +------------+---+--------------+
-| **zwei**   | _ | **zwölf**    |
+| **zwei**   | . | **zwölf**    |
 |            |   |              |
 | two        |   | twelve       |
 +------------+---+--------------+
-| **drei**   | _ | **dreizehn** |
+| **drei**   | . | **dreizehn** |
 |            |   |              |
 | three      |   | thirteen     |
 +------------+---+--------------+
-| **vier**   | _ | **vierzehn** |
+| **vier**   | . | **vierzehn** |
 |            |   |              |
 | four       |   | fourteen     |
 +------------+---+--------------+
-| **fünf**   | _ | **fünfzehn** |
+| **fünf**   | . | **fünfzehn** |
 |            |   |              |
 | five       |   | fifteen      |
 +------------+---+--------------+
-| **sechs**  | _ | **sechzehn** |
+| **sechs**  | . | **sechzehn** |
 |            |   |              |
 | six        |   | sixteen      |
 +------------+---+--------------+
-| **sieben** | _ | **siebzehn** |
+| **sieben** | . | **siebzehn** |
 |            |   |              |
 | seven      |   | seventeen    |
 +------------+---+--------------+
-| **acht**   | _ | **achtzehn** |
+| **acht**   | . | **achtzehn** |
 |            |   |              |
 | eight      |   | eighteen     |
 +------------+---+--------------+
-| **neun**   | _ | **neunzehn** |
+| **neun**   | . | **neunzehn** |
 |            |   |              |
 | nine       |   | nineteen     |
 +------------+---+--------------+
-| **zehn**   | _ | **zwanzig**  |
+| **zehn**   | . | **zwanzig**  |
 |            |   |              |
 | ten        |   | twenty       |
 +------------+---+--------------+
