@@ -2,13 +2,13 @@
 Colors (Farben)
 ===============
 
-| **Blau** : blue
-| **Geld** : yellow
-| **Grau** : gray
-| **Grün** : green
-| **Orange** : orange
-| **Pink** : pink
-| **Rot** : red
-| **Schwarz** : black
-| **Violett** : violet
-| **Weiß** : white
+| **blau** : blue
+| **geld** : yellow
+| **grau** : gray
+| **grün** : green
+| **orange** : orange
+| **pink** : pink
+| **rot** : red
+| **schwarz** : black
+| **violett** : violet
+| **weiß** : white
