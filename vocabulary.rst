@@ -147,7 +147,7 @@ Feelings
 --------
 | **Ich bin glücklich**: I am happy
 | **Ich bin traurig**: I am sad
-| **Ich fühle mich krank / Ich bin krank*: I am sick / I am feeling sick
+| **Ich fühle mich krank / Ich bin krank**: I am sick / I am feeling sick
 
 Greetings
 ---------
