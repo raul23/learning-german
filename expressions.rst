@@ -43,6 +43,7 @@ Misc (Verschiedenes)
 | **Langsam Bitte**: Slowly, please
 | **so wie**: as, like
 | **Viertel vor**: a quarter to
+| **Wie ist deine Telefonnummer?** What is your telephone number?
 | **wie viel, wie viele**: how much, how many
 | **Wieviel Geld**: how much money
 | **Wie viel kostet es?** How much does it cost?
