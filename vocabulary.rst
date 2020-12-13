@@ -173,5 +173,6 @@ Misc
 
 Time
 ----
+| **Es ist siebzehn Uhr dreißig (17:30 Uhr)**: It's 5:30 p.m.
 | **Hast du die Uhrzeit?**: Do you have the time?
 | **Wie viel Uhr ist es?**: What time is it?
