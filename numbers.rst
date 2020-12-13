@@ -43,3 +43,17 @@ Numbers (Zahlen)
 |            |   |              |
 | ten        |   | twenty       |
 +------------+---+--------------+
+
+dreißig : thirty
+vierzig : forty
+fünfzig : fifty
+sechzig : sixty
+siebzig : seventy
+achtzig : eighty
+neunzig : ninety
+einhundert : one hundred
+
+einundzwanzig : twenty-one
+vierunddreißig : thirty-four
+achtundsiebzig : seventy-eight
+neunundneunzig : ninety-nine
