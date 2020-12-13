@@ -63,7 +63,7 @@ Numbers (Zahlen)
 
 `:warning:` 
 
-  units first: 21-99
+  **units** + **und** : 21-99
 
 | **einundzwanzig** : twenty-one
 | **vierunddreißig** : thirty-four
