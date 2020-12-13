@@ -40,7 +40,6 @@ Misc (Verschiedenes)
 | **Ich habe Durst**: I am thirsty
 | **Ich habe Hunger**: I am hungry
 | **Kann ich das/dein Badezimmer benutzen?** Can i use the/your bathroom?
-| **Langsam Bitte**: Slowly, please
 | **so wie**: as, like
 | **Viertel vor**: a quarter to
 | **Wie ist deine Telefonnummer?** What is your telephone number?
