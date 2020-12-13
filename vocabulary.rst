@@ -140,17 +140,26 @@ Expressions
 Directions
 ----------
 | **Es ist alles gerade**: It is all straight
+| **Es ist im unteren Regal**: It's in the lower shelf
+| **Es ist in der unteren**: It is in the lower
 | **Es ist links / rechts**: It is on the left/right
+| **Es ist oben**: It is on the top
+| **Es ist unten**: It is in the bottom
 | **Es ist vorne / hinten**: It is in front / the back
 
 Feelings
 --------
 | **Ich bin glücklich**: I am happy
+| **Ich bin gut**: I am good
 | **Ich bin traurig**: I am sad
+| **Ich fühle mich gut**: I am feeling good
 | **Ich fühle mich krank / Ich bin krank**: I am sick / I am feeling sick
+| **Mir geht es nicht gut**: I am not feeling well
 
 Greetings
 ---------
+| **Entschuldigen Sie!**: Excuse me!
+| **Entschuldigung!**: Sorry! / Pardon me!
 | **Es geht**: I’m all right
 | **Es tut mir leid**: I’m sorry
 | **Wie geht’s?**: How are you?
