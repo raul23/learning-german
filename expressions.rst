@@ -50,13 +50,13 @@ Misc (Verschiedenes)
 
 Languages (Sprechen)
 ====================
+| **Ich spreche ein bisschen Deutsch**: I speak a little of German
+| **Ich spreche ein wenig Deutsch**: I speak a little bit of German
+
+   - NOTE: etwas (some, somewhat, slightly)
 | **Kannst du langsam sprechen?**: Can you speak slowly?
 | **Könntest du langsam sprechen?**: Could you speak slowly?
 | **Mein Deutsch ist sehr einfach**: My German is very basic (simple)
-| **Ich spreche ein bisschen Deutsch**: I speak a little of German
-| **Ich spreche ein wenig Deutsch**: I speak a little bit of German:
-
-   - NOTE: etwas (some, somewhat, slightly)
 
 Time (Zeit)
 ===========
