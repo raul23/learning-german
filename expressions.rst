@@ -56,7 +56,7 @@ Languages (Sprechen)
 | **Ich spreche ein bisschen Deutsch**: I speak a little of German
 | **Ich spreche ein wenig Deutsch**: I speak a little bit of German:
 
-   NOTE: [Also etwas (some, somewhat, slightly)] 
+   - NOTE: etwas (some, somewhat, slightly)
 
 Time (Zeit)
 ===========
