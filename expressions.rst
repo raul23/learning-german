@@ -26,12 +26,12 @@ Feelings (Gefühle)
 
 Greetings (Grüße)
 =================
-| **Entschuldigen Sie!**: Excuse me!
-| **Entschuldigung!**: Sorry! / Pardon me!
+| **Entschuldigen Sie!** Excuse me!
+| **Entschuldigung!** Sorry! / Pardon me!
 | **Es geht**: I’m all right
 | **Es tut mir leid**: I’m sorry
-| **Wie geht’s?**: How are you?
-| **Wie geht es dir?**: How are you?
+| **Wie geht’s?** How are you?
+| **Wie geht es dir?** How are you?
 
 Misc (Verschiedenes)
 ====================
@@ -39,14 +39,14 @@ Misc (Verschiedenes)
 | **Das Essen ist/war gut**: The food is/was good
 | **Ich habe Durst**: I am thirsty
 | **Ich habe Hunger**: I am hungry
-| **Kann ich das/dein Badezimmer benutzen?**: Can i use the/your bathroom?
+| **Kann ich das/dein Badezimmer benutzen?** Can i use the/your bathroom?
 | **Langsam Bitte**: Slowly, please
 | **so wie**: as, like
 | **Viertel vor**: a quarter to
 | **wie viel, wie viele**: how much, how many
 | **Wieviel Geld**: how much money
-| **Wie viel kostet es?**: How much does it cost?
-| **Wo ist die Toilette?**: Where is the bathroom?
+| **Wie viel kostet es?** How much does it cost?
+| **Wo ist die Toilette?** Where is the bathroom?
 
 Languages (Sprechen)
 ====================
@@ -54,14 +54,14 @@ Languages (Sprechen)
 | **Ich spreche ein wenig Deutsch**: I speak a little bit of German
 
    - NOTE: etwas (some, somewhat, slightly)
-| **Kannst du langsam sprechen?**: Can you speak slowly?
-| **Könntest du langsam sprechen?**: Could you speak slowly?
+| **Kannst du langsam sprechen?** Can you speak slowly?
+| **Könntest du langsam sprechen?** Could you speak slowly?
 | **Mein Deutsch ist sehr einfach**: My German is very basic (simple)
 
 Time (Zeit)
 ===========
 | **Es ist siebzehn Uhr dreißig (17:30 Uhr)**: It's 5:30 p.m.
-| **Hast du die Uhrzeit?**: Do you have the time?
+| **Hast du die Uhrzeit?** Do you have the time?
 | **Ich habe keine Zeit**: I don't have time
 | **Ich habe nicht viel zeit**: I don't have much time
 | **Wie viel Uhr ist es?**: What time is it?
