@@ -1,12 +1,12 @@
 ======
 README
 ======
-Here is a description of the files:
+Here is a list of the files:
 
-* `colors.rst`_: colors in German
+* `colors.rst`_
 * `expressions.rst`_: important German expressions divided into categories (e.g. directions, greetings) 
 * `grammar.rst`_: some German grammar rules
-* `numbers.rst`_: numbers in German
+* `numbers.rst`_
 * `vocabulary.rst`_: some German words I find important to remember
 
 Resources I found useful while learning German:
