@@ -1,8 +1,6 @@
 ======
 README
 ======
-I am compiling a list of the resources I found useful while learning German.
-
 Here is a description of the files:
 
 * `colors.rst`_: colors in German
@@ -18,6 +16,8 @@ Online German-English Dictionaries
 * `Cambridge Dictionary`_
 * `Collins Dictionary`_: provides declensions
 * `English-language Wiktionary`_: multilingual dictionary, provides etymology and declensions
+
+I am compiling a list of the resources I found useful while learning German.
 
 Online German Grammar Guides
 ----------------------------
