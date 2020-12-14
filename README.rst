@@ -4,6 +4,7 @@ README
 I am compiling a list of the resources I found useful while learning German.
 
 Here is a description of the files:
+
 * `colors.rst`_: colors in German
 * `expressions.rst`_: important German expressions divided into categories (e.g. directions, greetings) 
 * `grammar.rst`_: important German grammar rules
