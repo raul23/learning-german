@@ -5,9 +5,9 @@ Here is a description of the files:
 
 * `colors.rst`_: colors in German
 * `expressions.rst`_: important German expressions divided into categories (e.g. directions, greetings) 
-* `grammar.rst`_: important German grammar rules
+* `grammar.rst`_: some German grammar rules
 * `numbers.rst`_: numbers in German
-* `vocabulary.rst`_: important German words
+* `vocabulary.rst`_: some German words I find important to remember
 
 Resources I found useful while learning German.
 
