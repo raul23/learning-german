@@ -1,8 +1,14 @@
 ======
 README
 ======
-I am compiling a list of the resources I found useful while learning German. Also I am saving in `grammar.rst`_ and `vocabulary.rst`_ the
-most important grammar rules and words I must remember.
+I am compiling a list of the resources I found useful while learning German.
+
+Here is a description of the files:
+* `colors.rst`_: colors in German
+* `expressions.rst`_: important German expressions divided into categories (e.g. directions, greetings) 
+* `grammar.rst`_: important German grammar rules
+* `numbers.rst`_: numbers in German
+* `vocabulary.rst`_: important German words
 
 Resources
 =========
