@@ -9,7 +9,7 @@ Here is a description of the files:
 * `numbers.rst`_: numbers in German
 * `vocabulary.rst`_: important German words
 
-I am compiling a list of the resources I found useful while learning German.
+Resources I found useful while learning German.
 
 Resources
 =========
