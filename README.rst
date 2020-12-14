@@ -9,6 +9,8 @@ Here is a description of the files:
 * `numbers.rst`_: numbers in German
 * `vocabulary.rst`_: important German words
 
+I am compiling a list of the resources I found useful while learning German.
+
 Resources
 =========
 Online German-English Dictionaries
@@ -16,8 +18,6 @@ Online German-English Dictionaries
 * `Cambridge Dictionary`_
 * `Collins Dictionary`_: provides declensions
 * `English-language Wiktionary`_: multilingual dictionary, provides etymology and declensions
-
-I am compiling a list of the resources I found useful while learning German.
 
 Online German Grammar Guides
 ----------------------------
