@@ -29,8 +29,11 @@ Online German Grammar Guides
 .. _Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/german-english/
 .. _Collins Dictionary: https://www.collinsdictionary.com/dictionary/german-english/
 .. _Collins Easy Learning German Grammar: https://grammar.collinsdictionary.com/german-easy-learning/
+.. _colors.rst: ./colors.rst
 .. _English-language Wiktionary: https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+.. _expressions.rst: ./expressions.rst
 .. _German Grammar from Wikibooks: https://en.wikibooks.org/wiki/German/Grammar
 .. _grammar.rst: ./grammar.rst
+.. _numbers.rst: ./numbers.rst
 .. _Print version: https://en.wikibooks.org/wiki/German/Print_version
 .. _vocabulary.rst: ./vocabulary.rst
