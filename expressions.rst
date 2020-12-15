@@ -4,18 +4,6 @@ Expressions (Ausdrücke)
 .. contents:: **Table of contents**
    :depth: 3
    :local:
-   
-Gratitude and apology (Dankbarkeit und Entschuldigung)
-======================================================
-| **Besten Dank!** Thank you very much!
-| **Bitte schön**: You are welcome
-| **Danke**: Thank you
-| **Danke schön**: Thank you very much
-| **Danke sehr!** Thank you very much!
-| **Entschuldigen Sie!** Excuse me!
-| **Entschuldigung!** Sorry!
-| **Tut mir leid**: I am sorry
-| **Vielen Dank!** Thanks a lot/ Many thanks!
 
 Directions (Richtungen)
 =======================
@@ -35,6 +23,18 @@ Feelings (Gefühle)
 | **Ich fühle mich gut**: I am feeling good
 | **Ich fühle mich krank / Ich bin krank**: I am sick / I am feeling sick
 | **Mir geht es nicht gut**: I am not feeling well
+
+Gratitude and apology (Dankbarkeit und Entschuldigung)
+======================================================
+| **Besten Dank!** Thank you very much!
+| **Bitte schön**: You are welcome
+| **Danke**: Thank you
+| **Danke schön**: Thank you very much
+| **Danke sehr!** Thank you very much!
+| **Entschuldigen Sie!** Excuse me!
+| **Entschuldigung!** Sorry!
+| **Tut mir leid**: I am sorry
+| **Vielen Dank!** Thanks a lot/ Many thanks!
 
 Greetings (Grüße)
 =================
