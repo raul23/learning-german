@@ -8,6 +8,7 @@ Expressions (Ausdrücke)
 Gratitude and apology (Dankbarkeit und Entschuldigung)
 ======================================================
 | **Besten Dank!** Thank you very much!
+| **Bitte schön**: You are welcome
 | **Danke**: Thank you
 | **Danke schön**: Thank you very much
 | **Danke sehr!** Thank you very much!
@@ -15,7 +16,6 @@ Gratitude and apology (Dankbarkeit und Entschuldigung)
 | **Entschuldigung!** Sorry!
 | **Tut mir leid**: I am sorry
 | **Vielen Dank!** Thanks a lot/ Many thanks!
-
 
 Directions (Richtungen)
 =======================
