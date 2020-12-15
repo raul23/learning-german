@@ -4,6 +4,18 @@ Expressions (Ausdrücke)
 .. contents:: **Table of contents**
    :depth: 3
    :local:
+   
+Gratitude and apology (Dankbarkeit und Entschuldigung)
+======================================================
+| **Besten Dank!**: Thank you very much!
+| **Danke**: Thank you
+| **Danke schön**: Thank you very much
+| **Danke sehr!**: Thank you very much!
+| **Entschuldigen Sie!**: Excuse me!
+| **Entschuldigung!**: Sorry!
+| **Tut mir leid**: I am sorry
+| **Vielen Dank!**: Thanks a lot/ Many thanks!
+
 
 Directions (Richtungen)
 =======================
