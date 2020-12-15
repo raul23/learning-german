@@ -38,10 +38,14 @@ Gratitude and apology (Dankbarkeit und Entschuldigung)
 
 Greetings (Grüße)
 =================
-| **Entschuldigen Sie!** Excuse me!
-| **Entschuldigung!** Sorry! / Pardon me!
+| **Bist bald**: See you soon
 | **Es geht**: I’m all right
-| **Es tut mir leid**: I’m sorry
+| **Hallo**: Hello
+| **Gute Nacht**: Good night
+| **Guten Abend**: Good evening
+| **Guten Morgen**: Good morning
+| **Guten Tag**: Good afternoon
+| **Tschüss**: Bye
 | **Wie geht’s?** How are you?
 | **Wie geht es dir?** How are you?
 
