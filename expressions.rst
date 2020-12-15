@@ -12,7 +12,7 @@ Gratitude and apology (Dankbarkeit und Entschuldigung)
 | **Danke**: Thank you
 | **Danke schön**: Thank you very much
 | **Danke sehr!** Thank you very much!
-| **Entschuldigen Sie!**: Excuse me!
+| **Entschuldigen Sie!** Excuse me!
 | **Entschuldigung!** Sorry!
 | **Tut mir leid**: I am sorry
 | **Vielen Dank!** Thanks a lot/ Many thanks!
