@@ -4,6 +4,7 @@ Vocabulary (Wortschatz)
 .. contents:: **Table of contents**
    :depth: 3
    :local:
+   :backlinks: "top"
 
 A
 =
