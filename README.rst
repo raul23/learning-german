@@ -11,7 +11,9 @@ Here is a list of the files:
 
 Resources
 =========
-Resources I found useful while learning German:Online German-English Dictionaries
+Resources I found useful while learning German:
+
+Online German-English Dictionaries
 ----------------------------------
 * `Cambridge Dictionary`_
 * `Collins Dictionary`_: provides declensions
