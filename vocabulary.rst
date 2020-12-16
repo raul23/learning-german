@@ -1,6 +1,8 @@
 =======================
 Vocabulary (Wortschatz)
 =======================
+A
+=
 **als**: than
 
 **Arbeit** (**-en**) *die* work, labor, job
@@ -23,6 +25,9 @@ Vocabulary (Wortschatz)
 
 **aus**: out of, off
 
+D
+=
+
 **da**: because, there, over there
 
 **damals**: back then, then, at that time
@@ -37,9 +42,15 @@ Vocabulary (Wortschatz)
 
 **durch**: by
 
+E
+=
+
 **etwa**: about, around, approximately
 
 **euch**: you
+
+F
+=
 
 **fast**: almost, nearly
 
@@ -47,30 +58,54 @@ Vocabulary (Wortschatz)
 
 **früh**: early
 
+G
+=
+
 **gerade**: right now, right, just
 
 **gestern**: yesterday
+
+I
+=
 
 **ihn**: him
 
 **immer**: always
 
+J
+=
+
 **jetzt**: now
+
+M
+=
 
 **man**: one, you, people
   * e.g. Butter macht **man** aus Milch : **One** makes butter out of milk
 
 **Mitarbeiter, in** (-, **-nen**) *der, die* employee, co-worker, collaborator
 
+N
+=
+
 **nach**: to
 
 **nur**: just
+
+O
+=
 
 **obwohl**: even though
 
 **Öffentlichkeit** *die* public, public sphere
 
+P
+=
+
 **plötzlich**: suddenly 
+
+S
+=
 
 **seit**: since
 
@@ -82,6 +117,9 @@ Vocabulary (Wortschatz)
 
 **Stunde** *die* hour
 
+U
+=
+
 **über**: about, across
 
 **Uhr** *die* clock, o’clock, watch
@@ -92,13 +130,22 @@ Vocabulary (Wortschatz)
 
 **uns**: us
 
+T
+=
+
 **Termin** *der* appointment
+
+V
+=
 
 **Vergangenheit** *die* past
 
 **vielleicht**: perhaps, might, maybe, possibly
 
 **vorbei**: over
+
+W
+=
 
 **wann**: when
 
@@ -119,6 +166,9 @@ Vocabulary (Wortschatz)
 **woher**: where
 
 **worüber**: about what
+
+Z 
+=
 
 **zu**: 
   - *adv*: too
