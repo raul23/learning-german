@@ -1,8 +1,8 @@
 ======
 README
 ======
-Here is a list of the files:
-
+List of the files
+=================
 * `colors.rst`_
 * `expressions.rst`_: important German expressions divided into categories (e.g. directions, greetings) 
 * `grammar.rst`_: some German grammar rules
