@@ -9,11 +9,9 @@ Here is a list of the files:
 * `numbers.rst`_
 * `vocabulary.rst`_: some German words I find important to remember
 
-Resources I found useful while learning German:
-
 Resources
 =========
-Online German-English Dictionaries
+Resources I found useful while learning German:Online German-English Dictionaries
 ----------------------------------
 * `Cambridge Dictionary`_
 * `Collins Dictionary`_: provides declensions
