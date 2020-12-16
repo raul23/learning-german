@@ -1,6 +1,9 @@
 ================
 Numbers (Zahlen)
 ================
+.. contents:: **Table of contents**
+   :depth: 3
+   :local:
 
 Cardinal numbers (Kardinalzahlen)
 =================================
@@ -85,4 +88,7 @@ Ordinal numbers (Ordnungszahlen)
 | **neunte**: nineth
 | **zehnte**: tenth
 
-| das Letzte: the last
+|
+
+| **Das Letzte**: The last
+| **Der Erste**: The first
