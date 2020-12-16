@@ -5,7 +5,7 @@ Colors (Farben)
 | **blau** : blue
 | **geld** : yellow
 | **golden** : golden
-| **grau** : gray
+| **grau** : grey
 | **grün** : green
 | **orange** : orange
 | **pink** : pink
