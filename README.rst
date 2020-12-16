@@ -11,7 +11,7 @@ Here is a list of the files:
 
 Resources
 =========
-Resources I found useful while learning German:
+Resources I found useful for learning German:
 
 Online German-English Dictionaries
 ----------------------------------
