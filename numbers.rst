@@ -55,7 +55,6 @@ Cardinal numbers (Kardinalzahlen)
   
   **dreißig** : thirty
 
-| **dreißig** : thirty
 | **vierzig** : forty
 | **fünfzig** : fifty
 | **sechzig** : sixty
