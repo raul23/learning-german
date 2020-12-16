@@ -85,7 +85,7 @@ Ordinal numbers (Ordnungszahlen)
 | **sechste**: sixth
 | **siebte**: seventh
 | **achte**: eighth
-| **neunte**: nineth
+| **neunte**: ninth
 | **zehnte**: tenth
 
 |
