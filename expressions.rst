@@ -14,6 +14,7 @@ Directions (Richtungen)
 | **Es ist oben**: It is on the top
 | **Es ist unten**: It is in the bottom
 | **Es ist vorne / hinten**: It is in front / the back
+| **Nord, Ost, Süd und West**: North, East, South and West
 
 Feelings (Gefühle)
 ==================
