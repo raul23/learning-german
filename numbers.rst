@@ -2,6 +2,8 @@
 Numbers (Zahlen)
 ================
 
+Cardinal numbers (Kardinalzahlen)
+=================================
 +------------+---+--------------+
 | **eins**   | . | **elf**      |
 |            |   |              |
@@ -69,3 +71,18 @@ Numbers (Zahlen)
 | **vierunddreißig** : thirty-four
 | **achtundsiebzig** : seventy-eight
 | **neunundneunzig** : ninety-nine
+
+Ordinal numbers (Ordnungszahlen)
+================================
+| **erste**: first
+| **zweite**: second
+| **dritte**: third
+| **vierte**: fourth
+| **fünfte**: fifth
+| **sechste**: sixth
+| **siebte**: seventh
+| **achte**: eighth
+| **neunte**: nineth
+| **zehnte**: tenth
+
+| das Letzte: the last
