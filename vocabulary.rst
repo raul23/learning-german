@@ -43,6 +43,8 @@ D
 
 **Dauer** *die* duration
 
+**denn**: because
+
 **doch**: but
 
 **durch**: by
