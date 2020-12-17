@@ -10,15 +10,15 @@ A
 =
 **als**: than
 
-**Arbeit** (**-en**) *die* work, labor, job
+**Arbeit** (*pl* **-en**) *die* work, labor, job
 
 **arbeiten** (*iv*) to work
 
-**Arbeiter, in** (-, **-nen**) *der, die* laborer, worker
+**Arbeiter, in** (*mpl* -, *fpl* **-nen**) *der*, *die* laborer, worker
 
-**Arbeitgeber, in** (-, **-nen**) *der, die* employer
+**Arbeitgeber, in** (*mpl* -, *fpl* **-nen**) *der*, *die* employer
 
-**Arbeitnehmer, in** (-, **-nen**) *der, die* worker
+**Arbeitnehmer, in** (*mpl* -, *fpl* **-nen**) *der*, *die* worker
 
 **auch**: too
 
