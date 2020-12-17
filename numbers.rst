@@ -47,7 +47,7 @@ Cardinal numbers (Kardinalzahlen)
 
 `:warning:` 
 
-  21-99: **units** + **und**
+  21-99: **units** + **und** + **tens**
 
 | **einundzwanzig** : twenty-one
 | **vierunddreißig** : thirty-four
