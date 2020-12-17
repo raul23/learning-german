@@ -154,7 +154,7 @@ W
 
 **wann**: when
 
-**warum**: because
+**warum**: why
 
 **Weihnachten** *das* Christmas
 
