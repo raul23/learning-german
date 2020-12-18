@@ -97,6 +97,8 @@ N
 
 **nach**: to
 
+**normalerweise**: normally, usually
+
 **nur**: just
 
 O
