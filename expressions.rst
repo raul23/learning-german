@@ -59,6 +59,7 @@ Misc (Verschiedenes)
 | **Kann ich das/dein Badezimmer benutzen?** Can i use the/your bathroom?
 | **so wie**: as, like
 | **Viertel vor**: a quarter to
+| **Wie gewöhnlich**: as usual, ordinarily
 | **Wie ist deine Telefonnummer?** What is your telephone number?
 | **wie viel, wie viele**: how much, how many
 | **Wieviel Geld**: how much money
